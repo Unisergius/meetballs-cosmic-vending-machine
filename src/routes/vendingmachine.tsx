@@ -7,10 +7,8 @@ export const Route = createFileRoute('/vendingmachine')({
 })
 
 function RouteComponent() {
-  return <>
-      <main className='flex flex-row min-h-screen'>
+  return <main className='flex flex-row min-h-screen'>
         <Catalog />
         <Sidebar />
       </main>
-    </>
 }

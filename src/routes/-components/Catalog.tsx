@@ -1,6 +1,6 @@
 import type { RootState } from "@/store"
 import type { Item } from "@/types"
-import ItemSlot from "@/components/ItemSlot"
+import ItemSlot from "@/routes/-components/ItemSlot"
 import { useSelector } from "react-redux"
 
 export default function Catalog() {

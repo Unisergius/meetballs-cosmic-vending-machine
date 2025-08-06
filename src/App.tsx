@@ -1,7 +1,7 @@
 import '@/App.css'
-import Header from '@/components/Header'
-import Catalog from '@/components/Catalog'
-import Sidebar from '@/components/Sidebar'
+import Header from '@/routes/-components/Header'
+import Catalog from '@/routes/-components/Catalog'
+import Sidebar from '@/routes/-components/Sidebar'
 
 
 export default function App() {

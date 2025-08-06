@@ -1,5 +1,4 @@
 import { createFileRoute } from '@tanstack/react-router'
-import Header from './-components/Header'
 import Catalog from './-components/Catalog'
 import Sidebar from './-components/Sidebar'
 
